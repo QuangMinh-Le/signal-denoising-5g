@@ -2,7 +2,13 @@
 
 ## 📌 Project Overview
 
-This project implements a **1D Convolutional Neural Network (CNN)** to denoise **noisy 5G signals**. The goal is to improve signal clarity by reducing Gaussian noise using deep learning techniques.
+Ever wondered what 5G signals would sound like if they had a bad karaoke night? 🎤 Well, this project is here to clean up the noise!
+
+I built a **1D Convolutional Neural Network (CNN)** to take those messy, noisy 5G signals and make them crisp and clear using deep learning magic. 🧙‍♂️✨
+
+👨‍💻 **Author**: Quang Minh Le
+
+🎯 **Why did I do this?** I wanted to dive into the world of AI and signal processing—plus, who doesn’t love a good challenge? 
 
 ## 🚀 Features
 
